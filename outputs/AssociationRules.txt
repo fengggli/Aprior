@@ -1,0 +1,8 @@
+{I5->I3};Confidence:92.3%
+{I2,I3->I4};Confidence:90.0%
+{I2,I5->I3};Confidence:100.0%
+{I2,I3->I5};Confidence:90.0%
+{I4,I5->I3};Confidence:100.0%
+{I3,I5->I4};Confidence:91.7%
+{I3,I4->I5};Confidence:91.7%
+{I2,I4,I5->I3};Confidence:100.0%

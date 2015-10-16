@@ -1,0 +1,26 @@
+written by FengLi
+Sep 25, 2015
+
+
+this is a implementation of aprior algorithm.
+
+Evironment:
+    Python 3.x, and Python2.x is not supported
+
+How to run:
+    The command should be excuted in terminal and should have the format below:
+        'python3 aprior.py fullfilepath Minsup Minconf'
+    where fullfilepath is the full path of the dataset file; Minsup is the minimal support( an integer), and Minconf is the Minimal Confidence(should be a decimal)
+
+    Here is an example, you can run this in the current folder:
+        python3 aprior.py data/dataset_full.txt 300 0.41
+
+Input :
+    the input dataset should have format as data/example.txt
+
+Result:
+    The result will be saved in outputs/
+    The excuted time will printed in the terminal
+
+
+
